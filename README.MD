@@ -33,6 +33,9 @@ After scrapping data, all is cleared and some addtional features are added to ma
 
 
 ## Scope of work
-1. 01. Webscrapping_apartments for sale
-2. 02. Price_estimation
+
+1. '01. Webscrapping_apartments for sale'
+2. '02. Price_estimation'
+
+
 ## Final results
