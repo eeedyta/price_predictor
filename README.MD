@@ -31,4 +31,8 @@ All data sets come from [otodom.pl](https://www.otodom.pl/) and were restricted 
 
 After scrapping data, all is cleared and some addtional features are added to manage to estimation in the correct way. Then several estimator are validated to find the best aproximation.
 
+
+## Scope of work
+1. 01. Webscrapping_apartments for sale
+2. 02. Price_estimation
 ## Final results
