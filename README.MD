@@ -40,10 +40,12 @@ After scrapping data, all is cleared and some addtional features are added to ma
 
 ## Final results
 
-As expected the best estimator is Gradient Boosting with defined parameters max_depth: 95, min_samples_leaf: 15, n_estimators: 150. The results is not an amazing achievement 
+As expected the best estimator is Gradient Boosting with defined parameters max_depth: 95, min_samples_leaf: 15, n_estimators: 150. The result is not an amazing achievement 
 
 R^2 score = 0.63
 
 MSE = 9.375760e+10
 
 RMSE = 306198.6
+
+but could be expected considering numerous of different parameters and lack of data.
