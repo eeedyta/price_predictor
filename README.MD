@@ -40,4 +40,4 @@ After scrapping data, all is cleared and some addtional features are added to ma
 
 ## Final results
 
-As expected the best estimator is Gradient Boosting with defined parameters max_depth: 100, min_samples_leaf: 15, n_estimators: 200. The result is not an amazing achievement  with R^2 score = 0.63 and Mean Absolute Percentage Error =14 but could be expected considering numerous of different parameters and lack of data.
+As expected the best estimator is Gradient Boosting with defined parameters max_depth: 100, min_samples_leaf: 15, n_estimators: 200. The result is not an amazing achievement  with R^2 score = 0.63 and Mean Absolute Percentage Error = 14 but could be expected considering numerous of different parameters and lack of data.
